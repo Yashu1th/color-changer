@@ -10,12 +10,14 @@ body{
     place-items: center;
 }
 button{
-    font-size:10px;
-    width:100px;
+    font-size:20px;
+    width:150px;
     padding:10px;
     border-radius:50px;
     background: transparent;
     border:none;
-    border:1px solid black;
+    border:5px solid ;
     color:white;
+    outline:none;
+    letter-spacing: 1.5px;
 }
